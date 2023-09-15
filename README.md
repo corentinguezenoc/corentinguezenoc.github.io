@@ -1,4 +1,4 @@
-courriel @ domaine.org
+**Contact:** courriel @ domaine.org
 
 Vidéos
 ===============
