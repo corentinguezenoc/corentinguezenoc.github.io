@@ -19,8 +19,10 @@ Cinematic
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=469402474/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://corentinguezenoc.bandcamp.com/track/byzance">Byzance by Corentin Guezenoc - Composer</a></iframe>
 
-Stoner rock
+Rock
 ---------------
+
+Composition, chant lead, guitare, concerts.
 
 <iframe style="border: 0; width: 400px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=2648831662/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://electricmistresstheband.bandcamp.com/album/mind-trip-ep">Mind Trip EP by Electric Mistress</a></iframe>
 
