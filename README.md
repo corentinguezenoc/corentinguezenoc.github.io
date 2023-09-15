@@ -17,9 +17,9 @@ Compositions cinématiques
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=469402474/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://corentinguezenoc.bandcamp.com/track/byzance">Byzance by Corentin Guezenoc - Composer</a></iframe>
 
-Groupe de rock -- Composition et performances live
+Groupe de rock
 ---------------
 
-Composition, chant lead, guitare, concerts.
+Composition et performances live: chant lead et guitare.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2648831662/size=small/bgcol=ffffff/linkcol=0687f5/track=3444146830/transparent=true/" seamless><a href="https://electricmistresstheband.bandcamp.com/album/mind-trip-ep">Mind Trip EP by Electric Mistress</a></iframe>
