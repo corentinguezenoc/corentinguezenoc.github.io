@@ -1,6 +1,6 @@
 
 
-Videos
+Vidéos
 ===============
 
 Nature Morte, short film, 2023.
@@ -9,10 +9,10 @@ Nature Morte, short film, 2023.
 Mission: Impossible extract
 
 
-Music
+Musique
 ===============
 
-Cinematic
+Cinématique
 ---------------
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3126806736/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://corentinguezenoc.bandcamp.com/track/tenaro">Tenaro by Corentin Guezenoc - Composer</a></iframe>
