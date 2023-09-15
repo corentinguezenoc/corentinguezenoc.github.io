@@ -10,14 +10,14 @@ Mission: Impossible extract
 Musique
 ===============
 
-Cinématique
+Compositions cinématiques
 ---------------
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3126806736/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://corentinguezenoc.bandcamp.com/track/tenaro">Tenaro by Corentin Guezenoc - Composer</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=469402474/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://corentinguezenoc.bandcamp.com/track/byzance">Byzance by Corentin Guezenoc - Composer</a></iframe>
 
-Rock (dans un groupe)
+Groupe de rock -- Composition et performances live
 ---------------
 
 Composition, chant lead, guitare, concerts.
