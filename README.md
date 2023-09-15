@@ -1,5 +1,5 @@
-
-Hello world!
+---
+---
 
 
 Videos
@@ -14,15 +14,12 @@ Music
 ===============
 
 Cinematic
+---------------
 
 Stoner rock
+---------------
 
 
-Bio
-===============
-This is a bio.
-
-
-Contact
-===============
+[]Contact
+[]===============
 E-mail
