@@ -1,6 +1,3 @@
----
-published: true
----
 
 Hello world!
 
