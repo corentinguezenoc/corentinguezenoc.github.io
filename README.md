@@ -26,7 +26,7 @@ Musique
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=469402474/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://corentinguezenoc.bandcamp.com/track/byzance">Byzance by Corentin Guezenoc - Composer</a></iframe>
 
-### Formation rock
+### Formation stoner rock - Electric Mistress
 
 Co-composition et performances live au chant lead et à la guitare électrique.
 
