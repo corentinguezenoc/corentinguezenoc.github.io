@@ -3,19 +3,11 @@ courriel @ domaine.org
 Films
 ===============
 
-Nature Morte, short film, 2023.
-
-This is my take at composing, mixing and mastering a soundtrack for the short film "Nature Morte", made by students of L'École des médias de l'Université du Québec à Montréal and directed by Alysée Lavallée-Imhof. This short film is one of the three that were proposed at the Montreal International Film Scoring Competition 2023 for participants to score on. I did not participate in the competition this time and made this as an exercise.
-
-Short film title : Nature Morte.
-By students of L'École des médias de l'Université du Québec à Montréal.
-Directed by Alysée Lavallée-Imhof. 
-All music composed mixed and mastered by Corentin Guezenoc.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SuQhiPg3ZGM?si=L4fwppv21GYdYidH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Composition, mixage et mastering d'une bande original pour le court-métrage _Nature Morte_, fait par des étudiants de L'École des médias de l'Université du Québec à Montréal et réalisé par Alysée Lavallée-Imhof. C'est un des trois court-métrages proposés au Concours international de composition de musique de film de Montréal 2023.
 
-Mission: Impossible extract
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TrBZLZkrKeM?si=GON3qfJH_KawiF82" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Composition de musique pour un extrait d'une minute de _Mission: Impossible_ (Brian De Palma, 1996) dans le cadre d'un cours du soir de composition à l'image. 
 
 Musique
 ===============
@@ -28,7 +20,7 @@ Musique
 
 ### Formation stoner rock
 
-**Electric Mistress** Co-composition et performances live au chant lead et à la guitare électrique.
+**Electric Mistress:** Co-composition et performances live au chant lead et à la guitare électrique.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2648831662/size=small/bgcol=ffffff/linkcol=0687f5/track=3444146830/transparent=true/" seamless><a href="https://electricmistresstheband.bandcamp.com/album/mind-trip-ep">Mind Trip EP by Electric Mistress</a></iframe>
 
