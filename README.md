@@ -1,4 +1,4 @@
-**Courriel:** courriel @ domaine.org
+courriel @ domaine.org
 
 Vidéos
 ===============
@@ -19,9 +19,16 @@ Compositions cinématiques
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=469402474/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://corentinguezenoc.bandcamp.com/track/byzance">Byzance by Corentin Guezenoc - Composer</a></iframe>
 
-Groupe de rock
+Formation rock
 ---------------
 
 Co-composition et performances live au chant lead et à la guitare électrique.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2648831662/size=small/bgcol=ffffff/linkcol=0687f5/track=3444146830/transparent=true/" seamless><a href="https://electricmistresstheband.bandcamp.com/album/mind-trip-ep">Mind Trip EP by Electric Mistress</a></iframe>
+
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
