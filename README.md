@@ -4,10 +4,10 @@ Films
 ===============
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SuQhiPg3ZGM?si=L4fwppv21GYdYidH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Composition, mixage et mastering d'une bande original pour le court-métrage _Nature Morte_, fait par des étudiants de L'École des médias de l'Université du Québec à Montréal et réalisé par Alysée Lavallée-Imhof. C'est un des trois court-métrages proposés au Concours international de composition de musique de film de Montréal 2023.
+**Nature Morte:** Composition, mixage et mastering d'une bande original pour le court-métrage _Nature Morte_, fait par des étudiants de L'École des médias de l'Université du Québec à Montréal et réalisé par Alysée Lavallée-Imhof. C'était un des trois court-métrages proposés au Concours international de composition de musique de film de Montréal en 2023.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TrBZLZkrKeM?si=GON3qfJH_KawiF82" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Composition de musique pour un extrait d'une minute de _Mission: Impossible_ (Brian De Palma, 1996) dans le cadre d'un cours du soir de composition à l'image. 
+**Mission: Impossible:** Composition de musique pour un extrait d'une minute de _Mission: Impossible_ (Brian De Palma, 1996) dans le cadre d'un cours de composition à l'image. 
 
 Musique
 ===============
