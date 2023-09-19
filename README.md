@@ -1,5 +1,3 @@
-corentin.guezenoc.pro @ gmail.com
-
 Films
 ===============
 
