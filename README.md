@@ -1,10 +1,10 @@
 Films
 ===============
 
-<iframe width="560" height="315" src="https://youtu.be/JV3LFrQyWyw?si=OhEuXwB0lmyXgxCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JV3LFrQyWyw?si=wtpwfFdcp6mJkSF_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **Psychotrope.** Composition, mixage et mastering d'une bande originale pour le court-métrage _Psychotrope_, écrit et réalisé par Lucas Amgoud, Baptiste Kozlowski et Andréas Karoulidis dans le cadre du défi Kino Montréal du mois de Février 2024.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SuQhiPg3ZGM?si=L4fwppv21GYdYidH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SuQhiPg3ZGM?si=r1ZXbM_g0L2mmcOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **Nature Morte.** Composition, mixage et mastering d'une bande originale pour le court-métrage _Nature Morte_, fait par des étudiants de L'École des médias de l'Université du Québec à Montréal et réalisé par Alysée Lavallée-Imhof. C'était un des trois court-métrages proposés au Concours international de composition de musique de film de Montréal en 2023.
 
 
