@@ -1,4 +1,16 @@
 ---
 ---
 
+// Import them described in _config.yml
 @import "{{ site.theme }}";
+
+// Customize CSS
+/* Custom title font */
+h1.title {
+    font-family: "Raleway", sans-serif;
+}
+
+/* Custom description font */
+p.description {
+    font-family: "Raleway", sans-serif;
+}
