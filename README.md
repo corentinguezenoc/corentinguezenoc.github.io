@@ -14,7 +14,7 @@ Jeu Vidéo
 
 **Where's My Leg.** Composition, mixage et mastering de musique et sound design pour le mini jeu vidéo _Where's My Leg_ dans le cadre du Global Game Jam 2024. **Tout l'audio a été réalisé à partir de bruits de bouche enregistrés** pour l'occasion. Collaborateurs : Jiarui (Ray) Li (Game Design, Programmation, Level Design) et Zisen Ling (Game Design, Programmation, Level Design, Graphismes).
 
-Musique
+Musique Live
 ===============
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2484473687/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://whenthewhalefalls.bandcamp.com/album/sunken-sun-2">Sunken Sun by When The Whale Falls</a></iframe>
 
