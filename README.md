@@ -1,3 +1,14 @@
+Jeu Vidéo
+===============
+
+<iframe width="100%" height="325" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1851410625&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/corentinguezenoc" title="Corentin Guezenoc - Composer" target="_blank" style="color: #cccccc; text-decoration: none;">Corentin Guezenoc - Composer</a> · <a href="https://soundcloud.com/corentinguezenoc/sets/necromouse-ost" title="Necromouse OST (Jame Gam #40)" target="_blank" style="color: #cccccc; text-decoration: none;">Necromouse OST (Jame Gam #40)</a></div>
+
+**Necromouse** Composition, mixage et mastering de musique et sound design pour le mini jeu vidéo _Necromouse_, créé en une semaine pour le Jame Gam #40 (Mai 2024). Thème : nécromancie. Objet spécial : aiguille. Collaborateurs : Matt Eliott, Tyler Manis. Try the game [here](https://gamedevwhy.itch.io/necromouser).
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1755135648&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/corentinguezenoc" title="Corentin Guezenoc - Composer" target="_blank" style="color: #cccccc; text-decoration: none;">Corentin Guezenoc - Composer</a> · <a href="https://soundcloud.com/corentinguezenoc/main-level-soundtrack" title="Where&#x27;s My Leg OST (Global Game Jam 2024)" target="_blank" style="color: #cccccc; text-decoration: none;">Where&#x27;s My Leg OST (Global Game Jam 2024)</a></div>
+
+**Where's My Leg.** Composition, mixage et mastering de musique et sound design pour le mini jeu vidéo _Where's My Leg_, créé en 3 jours pour le Global Game Jam 2024. **Tout l'audio a été réalisé à partir de bruits de bouche enregistrés** pour l'occasion. Collaborateurs : Jiarui (Ray) Li (Game Design, Programmation, Level Design) et Zisen Ling (Game Design, Programmation, Level Design, Graphismes).
+
 Films
 ===============
 
@@ -7,16 +18,6 @@ Films
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SuQhiPg3ZGM?si=r1ZXbM_g0L2mmcOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **Nature Morte.** Composition, mixage et mastering de musique pour le court-métrage _Nature Morte_, fait par des étudiants de L'École des médias de l'Université du Québec à Montréal et réalisé par Alysée Lavallée-Imhof. C'était un des trois court-métrages proposés au Concours international de composition de musique de film de Montréal en 2023.
-
-Jeu Vidéo
-===============
-<iframe width="100%" height="325" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1851410625&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/corentinguezenoc" title="Corentin Guezenoc - Composer" target="_blank" style="color: #cccccc; text-decoration: none;">Corentin Guezenoc - Composer</a> · <a href="https://soundcloud.com/corentinguezenoc/sets/necromouse-ost" title="Necromouse OST (Jame Gam #40)" target="_blank" style="color: #cccccc; text-decoration: none;">Necromouse OST (Jame Gam #40)</a></div>
-
-**Necromouse** Composition, mixage et mastering de musique et sound design pour le mini jeu vidéo _Necromouse_, créé en une semaine pour le Jame Gam #40 (Mai 2024). Thème : nécromancie. Objet spécial : aiguille. Collaborateurs : Matt Eliott, Tyler Manis. Try the game [here](https://gamedevwhy.itch.io/necromouser).
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1755135648&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/corentinguezenoc" title="Corentin Guezenoc - Composer" target="_blank" style="color: #cccccc; text-decoration: none;">Corentin Guezenoc - Composer</a> · <a href="https://soundcloud.com/corentinguezenoc/main-level-soundtrack" title="Where&#x27;s My Leg OST (Global Game Jam 2024)" target="_blank" style="color: #cccccc; text-decoration: none;">Where&#x27;s My Leg OST (Global Game Jam 2024)</a></div>
-
-**Where's My Leg.** Composition, mixage et mastering de musique et sound design pour le mini jeu vidéo _Where's My Leg_, créé en 3 jours pour le Global Game Jam 2024. **Tout l'audio a été réalisé à partir de bruits de bouche enregistrés** pour l'occasion. Collaborateurs : Jiarui (Ray) Li (Game Design, Programmation, Level Design) et Zisen Ling (Game Design, Programmation, Level Design, Graphismes).
 
 Musique Live
 ===============
