@@ -5,27 +5,43 @@ body {
 	margin: 0;
 	padding: 0;
 }
+
+/* Header */
 .header-container {
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	align-items: baseline;
 	background-color: #333;
-	color: #fff;
-	padding: 20px 50px;
+	color: #eee;
+	padding: 45px 100px;
 	border-bottom: 2px solid #222;
 }
-.header-container .myname {
-	font-size: 1.6em;
-	margin: 0;
-}
-.header-container .myjob {
-	font-size: 1.1em;
-	margin: 5px 0 0 0;
+
+.name-job-container {
+	display: flex;
+	align-items: baseline; /* Aligns items to the text baseline */ 
+	/*flex-direction: row; /* Stack the name and job title vertically */
+	/*align-items: flex-start; /* Aligns the name and job title to the left */
+	/*justify-content: center; /* Centers them vertically within the container */
+	gap: 20px; /* Adds space between name and job title */
 }
 
-/* Styles for tabs */
+.name-job-container .myname {
+	font-size: 1.8em;
+	margin: 0;
+}
+
+.name-job-container .myjob {
+	font-size: 1.5em;
+	color: #ccc;
+	align-items: baseline; /* Centers them vertically within the container */
+	font-size: 1.5em;
+}
+
+/* Tabs */
 .header-container .tabs {
     display: flex;
+	align-items: center; /* Vertically center the tabs */
     gap: 20px;
 }
 
