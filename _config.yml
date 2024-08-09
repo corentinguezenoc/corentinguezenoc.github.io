@@ -1,5 +1,0 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Corentin GUEZENOC &nbsp|&nbsp Compositeur
-description: corentin.guezenoc.pro @ gmail.com
