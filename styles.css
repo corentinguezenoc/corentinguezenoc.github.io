@@ -1,6 +1,6 @@
 body {
 	font-family: 'Inter', sans-serif;
-	background-color: #fff;
+	background-color: #eee;
 	color: #333;
 	margin: 0;
 	padding: 0;
@@ -20,9 +20,6 @@ body {
 .name-job-container {
 	display: flex;
 	align-items: baseline; /* Aligns items to the text baseline */ 
-	/*flex-direction: row; /* Stack the name and job title vertically */
-	/*align-items: flex-start; /* Aligns the name and job title to the left */
-	/*justify-content: center; /* Centers them vertically within the container */
 	gap: 20px; /* Adds space between name and job title */
 }
 
@@ -35,7 +32,7 @@ body {
 	font-size: 1.5em;
 	color: #ccc;
 	align-items: baseline; /* Centers them vertically within the container */
-	font-size: 1.5em;
+	font-size: 1.6em;
 }
 
 /* Tabs */
@@ -89,20 +86,39 @@ body {
 	color: #fff;
 }
 
+/* Section with full-width background */
+.full-width-background {
+    width: 100%; /* Full width of the screen */
+    background-color: inherit; /* Example background color */
+    padding: 0px 0; /* Vertical padding */
+}
+
+/* Section title */
+.section-title {
+	text-transform: uppercase;
+	color: #999;
+	text-align: center;
+}
+
+/* Container to limit text width */
 .container {
 	max-width: 55%;
 	margin: 0 auto;
 	padding: 20px;
 }
+
+/* Additional styles for sections */
+.section-listen {
+    background-color: inherit; /* Background color for section 1 */
+}
+
+.section-watch {
+    background-color: #ccc; /* Background color for section 2 */
+}
+
 .row {
     display: flex;
     align-items: flex-start;
-}
-.home_watch {
-    display: flex;
-    align-items: flex-start;
-	/* background-color: #ddd; */
-	background-color: inherit;
 }
 .column {
     flex: 1;
@@ -121,8 +137,8 @@ body {
 }
 
 .home_watch_left {
-	overflow-x: auto
     max-width: 70%;
+	margin-left: -20%;
 }
 
 .home_watch_right {
@@ -131,7 +147,7 @@ body {
 }
 
 .tabcontent {
-	display: yes;
+	display: block;
 }
 .tabcontent iframe {
 	margin-bottom: 20px;
