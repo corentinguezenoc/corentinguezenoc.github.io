@@ -1,9 +1,19 @@
+html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
 body {
 	font-family: 'Inter', sans-serif;
 	background-color: #eee;
 	color: #333;
 	margin: 0;
 	padding: 0;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
 }
 
 /* Header */
@@ -102,6 +112,7 @@ body {
 
 /* Container to limit text width */
 .container {
+	flex: 1;
 	max-width: 55%;
 	margin: 0 auto;
 	padding: 20px;
@@ -120,6 +131,7 @@ body {
     display: flex;
     align-items: flex-start;
 }
+
 .column {
     flex: 1;
     padding: 10px;
@@ -146,6 +158,34 @@ body {
 	margin-left: 0;
 }
 
+/* Footer left column */
+.footer_left {   
+    max-width: 33%;	
+	margin-top: 0px;	
+	margin-left: 0%;
+	text-align: right;
+}
+
+/* Footer center column */
+.footer_center {
+    max-width: 33%;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0%;	
+	text-align: center;
+}
+
+/* Footer right column */
+.footer_right {
+    max-width: 33%;
+	margin-top: 0px;
+	margin-left: 0px;
+	/* margin-right: 3%; */
+	text-align: right;
+	/* padding: 14px 16px; */
+}
+
+
 .tabcontent {
 	display: block;
 }
@@ -153,22 +193,55 @@ body {
 	margin-bottom: 20px;
 	width: 100%;
 }
+
 .footer {
-	margin-top: 20px;
-	font-size: 10px;
-	color: #cccccc;
-	line-break: anywhere;
-	word-break: normal;
-	overflow: hidden;
-	white-space: nowrap;
-	text-overflow: ellipsis;
-	font-family: 'Inter', sans-serif;
-	font-weight: 100;
+    background-color: inherit; /* Example background color */
+    color: #333; /* Text color */
+    text-align: center;
+    padding: 20px 0; /* Padding for spacing */
+	font-size: 16px;
+    width: 100%;
 }
-.footer a {
-	color: #cccccc;
-	text-decoration: none;
+
+.footer .tablinks_contact {
+    background-color: #333;
+    border-style: solid;
+    border-width: thin;
+    border-color: #000;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
 }
+
+.footer .tablinks_contact:hover {
+    background-color: #444;
+}
+
+.footer .tablinks_contact.active {
+    background-color: #444;
+    color: #fff;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Space between icons */
+}
+
+.social-icons img {
+    width: 30px; /* Set icon size */
+    height: auto;
+    transition: transform 0.3s;
+}
+
+.social-icons img:hover {
+    transform: scale(1.2); /* Enlarge icon on hover */
+}
+
 .contact-form {
 	max-width: 600px;
 	margin: auto;
@@ -199,6 +272,13 @@ body {
 	margin-top: 0px;
     border-radius: 32px; /* Optional: for rounded corners */
 }
+
+.no-style-link {
+    color: inherit; /* Inherits the color from the parent element */
+    text-decoration: none; /* Removes the underline */
+    font-weight: inherit; /* Inherits font weight from the parent element */
+}
+
 /* html,body{ */
 
     /* height: 100%; */
