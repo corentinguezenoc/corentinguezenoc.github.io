@@ -1,0 +1,319 @@
+html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+	font-family: 'Inter', sans-serif;
+	background-color: #eee;
+	color: #333;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+/* Header */
+.header-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	background-color: #333;
+	color: #eee;
+	padding: 45px 100px;
+	border-bottom: 2px solid #222;
+}
+
+.name-job-container {
+	display: flex;
+	align-items: baseline; /* Aligns items to the text baseline */ 
+	gap: 20px; /* Adds space between name and job title */
+}
+
+.name-job-container .myname {
+	font-size: 1.8em;
+	margin: 0;
+}
+
+.name-job-container .myjob {
+	font-size: 1.5em;
+	color: #ccc;
+	align-items: baseline; /* Centers them vertically within the container */
+	font-size: 1.6em;
+}
+
+/* Tabs */
+.header-container .tabs {
+    display: flex;
+	align-items: center; /* Vertically center the tabs */
+    gap: 20px;
+}
+
+.header-container .tabs .tablinks {
+	background-color: inherit;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	transition: 0.3s;
+	font-size: 20px;
+	color: #fff;
+	text-decoration:none;
+}
+
+.header-container .tabs .tablinks:hover {
+	background-color: #444;
+}
+
+.header-container .tabs .tablinks.active {
+	background-color: #444;
+	color: #fff;
+}
+
+.header-container .tabs .tablinks_contact {
+	background-color: inherit;
+	border-style: solid;
+	border-width: thin;
+	border-color: #ccc;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	transition: 0.3s;
+	font-size: 20px;
+	color: #fff;
+	text-decoration:none;
+}
+
+.header-container .tabs .tablinks_contact:hover {
+	background-color: #444;
+}
+
+.header-container .tabs .tablinks_contact.active {
+	background-color: #444;
+	color: #fff;
+}
+
+/* Section with full-width background */
+.full-width-background {
+    width: 100%; /* Full width of the screen */
+    background-color: inherit; /* Example background color */
+    padding: 0px 0; /* Vertical padding */
+}
+
+/* Section title */
+.section-title {
+	text-transform: uppercase;
+	color: #999;
+	text-align: center;
+}
+
+/* Container to limit text width */
+.container {
+	flex: 1;
+	max-width: 55%;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+/* Additional styles for sections */
+.section-listen {
+    background-color: inherit; /* Background color for section 1 */
+}
+
+.section-watch {
+    background-color: #ccc; /* Background color for section 2 */
+}
+
+.row {
+    display: flex;
+    align-items: flex-start;
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+}
+
+.about_left { 
+    max-width: 40%;	
+	margin-top: 25px;
+}
+
+.about_right {
+    max-width: 57%;
+	margin-top: 0px;
+	margin-left: 3%;
+}
+
+.home_watch_left {
+    max-width: 70%;
+	margin-left: -5%;
+	text-align: right;
+}
+
+.home_watch_right {
+    max-width: 70%;
+	margin-left: 0;
+	text-align: left;
+}
+
+/* Footer left column */
+.footer_left {   
+    max-width: 33%;	
+	margin-top: 0px;	
+	margin-left: 0%;
+	text-align: right;
+}
+
+/* Footer center column */
+.footer_center {
+    max-width: 33%;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0%;	
+	text-align: center;
+}
+
+/* Footer right column */
+.footer_right {
+    max-width: 33%;
+	margin-top: 0px;
+	margin-left: 0px;
+	/* margin-right: 3%; */
+	text-align: right;
+	/* padding: 14px 16px; */
+}
+
+
+.tabcontent {
+	display: block;
+}
+.tabcontent iframe {
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+.footer {
+    background-color: inherit; /* Example background color */
+    color: #333; /* Text color */
+    text-align: center;
+    padding: 20px 0; /* Padding for spacing */
+	font-size: 16px;
+    width: 100%;
+}
+
+.footer .tablinks_contact {
+    background-color: #333;
+    border-style: solid;
+    border-width: thin;
+    border-color: #000;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer .tablinks_contact:hover {
+    background-color: #444;
+}
+
+.footer .tablinks_contact.active {
+    background-color: #444;
+    color: #fff;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Space between icons */
+}
+
+.social-icons img {
+    width: 30px; /* Set icon size */
+    height: auto;
+    transition: transform 0.3s;
+}
+
+.social-icons img:hover {
+    transform: scale(1.2); /* Enlarge icon on hover */
+}
+
+.contact-form {
+	max-width: 600px;
+	margin: auto;
+}
+.contact-form input, .contact-form textarea {
+	width: 100%;
+	padding: 10px;
+	margin: 5px 0;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-size: 16px;
+}
+.contact-form button {
+	background-color: #333;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	cursor: pointer;
+	font-size: 16px;
+	border-radius: 5px;
+}
+.contact-form button:hover {
+	background-color: #555;
+}
+.about-pic {
+    width: 100%;
+    height: auto;
+	margin-top: 0px;
+    border-radius: 32px; /* Optional: for rounded corners */
+}
+
+.no-style-link {
+    color: inherit; /* Inherits the color from the parent element */
+    text-decoration: none; /* Removes the underline */
+    font-weight: inherit; /* Inherits font weight from the parent element */
+}
+
+/* html,body{ */
+
+    /* height: 100%; */
+/* } */
+
+/* iframe{ */
+    /* width:60%; */
+    /* height:70% */
+/* } */
+@media screen and (max-width: 600px) {
+	.header-container {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	.header-container .tabs {
+		flex-direction: column;
+		gap: 10px;
+		width: 100%;
+	}
+	.header-container .tabs button {
+		font-size: 14px;
+		padding: 10px 12px;
+		text-align: left;
+	}
+	.container {
+		max-width: 90%;
+	}
+	.contact-form input, .contact-form textarea {
+		font-size: 14px;
+		padding: 8px;
+	}
+	.contact-form button {
+		font-size: 14px;
+		padding: 8px 16px;
+	}
+}
