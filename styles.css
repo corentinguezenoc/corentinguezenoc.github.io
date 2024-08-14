@@ -150,12 +150,14 @@ body {
 
 .home_watch_left {
     max-width: 70%;
-	margin-left: -20%;
+	margin-left: -5%;
+	text-align: right;
 }
 
 .home_watch_right {
     max-width: 70%;
 	margin-left: 0;
+	text-align: left;
 }
 
 /* Footer left column */
