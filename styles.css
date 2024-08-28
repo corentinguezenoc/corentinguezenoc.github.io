@@ -139,25 +139,34 @@ body {
 }
 
 
-.about_pic { 
+.img_about_pic { 
     width: 50%;
     min-width: 500px;
 	margin-top: 0;
 	height: auto;
 	margin-top: 0px;
-	border-radius: 32px; /* Optional: for rounded corners */
+	border-radius: 16px; /* Optional: for rounded corners */
 }
 
-.about_left { 
-    max-width: 40%;	
-	margin-top: 25px;
+/* .about_left {  */
+    /* max-width: 40%;	 */
+	/* margin-top: 25px; */
+/* } */
+
+/* .about_right { */
+    /* max-width: 57%; */
+	/* margin-top: 0px; */
+	/* margin-left: 3%; */
+/* } */
+
+
+.about_pic {
 }
 
-.about_right {
-    max-width: 57%;
-	margin-top: 0px;
-	margin-left: 3%;
+.about_text {
+    text-align: left;
 }
+
 
 .home_watch_left {
     max-width: 70%;
@@ -201,6 +210,7 @@ body {
 
 .tabcontent {
 	display: block;
+	/* text-align: center; */
 }
 .tabcontent iframe {
 	margin-bottom: 20px;
