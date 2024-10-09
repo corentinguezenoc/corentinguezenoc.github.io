@@ -20,9 +20,11 @@ body {
 .header-container {
 	display: flex;
 	justify-content: space-between;
-	background-color: #333;
+    background: url('header.jpg') no-repeat center center; /* Replace with your image path */
+    background-size: cover; /* Ensures the image covers the entire header area */
+	background-attachment: fixed; /* This creates a parallax effect */
 	color: #eee;
-	padding: 45px 100px;
+	padding: 150px 100px;
 	border-bottom: 2px solid #222;
 	align-items: center; /* Vertically center the tabs */
 }
@@ -140,12 +142,13 @@ body {
 
 
 .img_about_pic { 
-    width: 50%;
+    width: 80%;
     min-width: 500px;
 	margin-top: 0;
 	height: auto;
 	margin-top: 0px;
 	border-radius: 16px; /* Optional: for rounded corners */
+	border-color: black;
 }
 
 /* .about_left {  */
@@ -210,7 +213,7 @@ body {
 
 .tabcontent {
 	display: block;
-	/* text-align: center; */
+	text-align: center;
 }
 .tabcontent iframe {
 	margin-bottom: 20px;
