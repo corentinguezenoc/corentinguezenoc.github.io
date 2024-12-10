@@ -276,7 +276,7 @@ body {
 }
 
 .asset-stores-icons img {
-    width: 25%; /* Set icon size */
+    width: 100px; /* Set icon size */
     height: auto;
     transition: transform 0.3s;
 }
