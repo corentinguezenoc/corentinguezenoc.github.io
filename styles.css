@@ -97,6 +97,42 @@ body {
 	color: #fff;
 }
 
+
+/* Dropdown menu */
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #444;
+	min-width: 180px;
+	transition: opacity 0.4s ease, visibility 0.4s ease
+	
+    /* Offset the dropdown downwards */
+    top: 50px; /* Adjust this value as needed */
+}
+
+.dropdown-content a {
+	color: #fff;
+	padding: 5px 16px;  /*Vertical, Horizontal*/
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a:hover {
+    opacity: 1;
+    visibility: visible;
+	/* background-color: #f1f1f1; */
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+	transition: background-color 0.2s ease;
+}
+
 /* Section with full-width background */
 .full-width-background {
     width: 100%; /* Full width of the screen */
