@@ -3,6 +3,7 @@ html {
     margin: 0;
     display: flex;
     flex-direction: column;
+	scroll-behavior: smooth;
 }
 
 body {
@@ -130,6 +131,12 @@ body {
     text-align: center;
 }
 
+.section-contact {
+    background-color: #444; /* Background color for section 2 */
+    color: #eee;
+    text-align: center;
+}
+
 .row {
     display: flex;
     align-items: flex-start;
@@ -193,7 +200,7 @@ body {
 
 /* Footer center column */
 .footer_center {
-    max-width: 33%;
+    max-width: 40%;
 	margin-top: 0px;
 	margin-left: 0px;
 	margin-right: 0%;	
@@ -221,7 +228,7 @@ body {
 }
 
 .footer {
-    background-color: inherit; /* Example background color */
+    background-color: #inherit; /* #ccc or inherit */
     color: #333; /* Text color */
     text-align: center;
     padding: 20px 0; /* Padding for spacing */
@@ -255,7 +262,7 @@ body {
 .social-icons {
     display: flex;
     justify-content: center;
-    gap: 20px; /* Space between icons */
+    gap: 35px; /* Space between icons */
 }
 
 .social-icons img {
