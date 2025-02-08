@@ -134,14 +134,14 @@ body {
 .section-contact {
     background-color: #111; /* Background color for section 2 */
     text-align: center;
-	padding: 0px 0px 0px 0px;
+	padding: 0px 0px;
 }
 
 /* Contact box in home page */
 .container-contact{
 	background-color: #111; /* Background color for section 2 */
     color: #eee;
-	padding: 1px 0px 40px 0px;  /* top right bottom left */
+	padding: 1px 50px;
 }
 
 .row {
