@@ -132,16 +132,9 @@ body {
 }
 
 .section-contact {
-    background-color: #111; /* Background color for section 2 */
-    text-align: center;
-	padding: 0px 0px;
-}
-
-/* Contact box in home page */
-.container-contact{
-	background-color: #111; /* Background color for section 2 */
+    background-color: #444; /* Background color for section 2 */
     color: #eee;
-	padding: 1px 50px;
+    text-align: center;
 }
 
 .row {
@@ -283,7 +276,7 @@ body {
 }
 
 .contact-form {
-	max-width: inherit;
+	max-width: 600px;
 	margin: auto;
 }
 .contact-form input, .contact-form textarea {
