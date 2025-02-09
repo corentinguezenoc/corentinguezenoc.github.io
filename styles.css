@@ -160,11 +160,11 @@ body {
 }
 
 /* Additional styles for sections */
-.section-listen {
+.section-odd {
     background-color: inherit; /* Background color for section 1 */
 }
 
-.section-watch {
+.section-even {
     background-color: #ccc; /* Background color for section 2 */
     text-align: center;
 }
@@ -203,6 +203,16 @@ body {
 	border-color: black;
 }
 
+.img_home_portrait { 
+    width: 100%;
+    min-width: 500px;
+	margin-top: 0;
+	height: auto;
+	margin-top: 0px;
+	border-radius: 0px; /* Optional: for rounded corners */
+	border-color: black;
+}
+
 /* .about_left {  */
     /* max-width: 40%;	 */
 	/* margin-top: 25px; */
@@ -222,6 +232,13 @@ body {
     text-align: left;
 }
 
+
+.home_portrait {
+}
+
+.home_portrait_text {
+    text-align: left;
+}
 
 .home_watch_left {
     max-width: 70%;
