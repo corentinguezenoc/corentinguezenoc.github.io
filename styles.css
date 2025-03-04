@@ -323,8 +323,8 @@ a {
     color: #666; /* Text color */
 	font-family: 'Alegreya Sans SC', sans-serif;
     text-align: center;
-    padding: 30px 0px 20px 0px;  /* top right bottom left */
-	font-size: 20px;
+    padding: 20px 0px 20px 0px;  /* top right bottom left */
+	font-size: 22px;
     width: 100%;
 }
 
@@ -354,11 +354,11 @@ a {
 .social-icons {
     display: flex;
     justify-content: center;
-    gap: 35px; /* Space between icons */
+    gap: 38px; /* Space between icons */
 }
 
 .social-icons img {
-    width: 30px; /* Set icon size */
+    width: 42px; /* Set icon size */
     height: auto;
     transition: transform 0.3s;
 }
