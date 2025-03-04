@@ -231,7 +231,6 @@ a {
 
 .img_home_portrait { 
     width: 100%;
-    min-width: 500px;
 	margin-top: 0;
 	height: auto;
 	margin-top: 0px;
@@ -403,20 +402,28 @@ a {
 }
 
 @media screen and (max-width: 1000px) {
-	/* .container { */
-		/* width: 80%; */
-		/* max-width: 600px; */
-		/* min-width: auto; */
-	/* } */
-	/* .contact-form input, .contact-form textarea { */
-		/* font-size: 14px; */
-		/* padding: 8px; */
-	/* } */
-	/* .contact-form button { */
-		/* font-size: 14px; */
-		/* padding: 8px 16px; */
-	/* } */
+	.container {
+		width: 80%;
+		max-width: 600px;
+		min-width: auto;
+	}
+	.contact-form input, .contact-form textarea {
+		font-size: 14px;
+		padding: 8px;
+	}
+	.contact-form button {
+		font-size: 14px;
+		padding: 8px 16px;
+	}
 	.about_pic{
+		min-width: auto;
+		max-width: 400px;
+		width: 100%;
+		height: auto;
+		margin-top: 0px;
+		border-radius: 32px; /* Optional: for rounded corners */
+	}
+	.home_portrait{
 		min-width: auto;
 		max-width: 400px;
 		width: 100%;
