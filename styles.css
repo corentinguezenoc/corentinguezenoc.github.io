@@ -202,10 +202,11 @@ a {
 
 /* Contact container in home page */
 .container-contact{
-	width: 100%;
+	width: 70%;
+	padding: 0px 15% 20px 15%;  /* top right bottom left */
+	text-align: center;
 	background-color: inherit;
     color: #eee;
-	padding: 0px 0px 20px 0px;  /* top right bottom left */
 }
 
 .row {
@@ -254,10 +255,10 @@ a {
 .about_pic {
 }
 
-.about_catch_phrase {
+.contact_catch_phrase {
 }
 
-.about_text {
+.contact_text {
     text-align: left;
 }
 
@@ -368,6 +369,7 @@ a {
 }
 
 .contact-form {
+	width: 97%;
 	max-width: inherit;
 	margin: auto;
 	padding: 0px 3% 0px 0px;  /* top right bottom left */
@@ -403,6 +405,7 @@ a {
     font-weight: inherit; /* Inherits font weight from the parent element */
 }
 
+/* Adjust global lay-out for narrower windows */
 @media screen and (max-width: 1000px) {
 	.container {
 		width: 90%;
@@ -427,7 +430,7 @@ a {
 	}
 }
 
-/* Tab elements */
+/* Adjust global lay-out for narrowest windows */
 @media screen and (max-width: 600px) {
 	.header-container {
 		flex-direction: column;
@@ -456,5 +459,24 @@ a {
 		font-size: 14px;
 		padding: 10px 12px;
 		text-align: left;
+	}
+}
+
+/* Specific adjustment of contact form container to window size */
+@media screen and (max-width: 1200px) {	
+	/* Contact form + text above*/
+	.container-contact{
+		width: 90%;
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+}
+/* Specific adjustment of contact form container to window size */
+@media screen and (max-width: 1000px) {	
+	/* Contact form + text above*/
+	.container-contact{
+		width: 99%;
+		padding-left: 0;
+		padding-right: 0;
 	}
 }
