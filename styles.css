@@ -196,8 +196,8 @@ a {
 /* Contact section in home page */
 .section-contact {
     background-color: #111; /* Background color */
-    text-align: center;
 	padding: 0px 0px 20px 0px; /* top right bottom left */
+    text-align: center;
 }
 
 /* Contact container in home page */
@@ -205,7 +205,7 @@ a {
 	width: 100%;
 	background-color: inherit;
     color: #eee;
-	padding: 0px 0px 20px 0%;  /* top right bottom left */
+	padding: 0px 0px 20px 0px;  /* top right bottom left */
 }
 
 .row {
@@ -370,15 +370,17 @@ a {
 .contact-form {
 	max-width: inherit;
 	margin: auto;
+	padding: 0px 3% 0px 0px;  /* top right bottom left */
 }
 .contact-form input, .contact-form textarea {
-	width: 96%;
+	width: 100%;
 	padding: 0px 0px 0px 0px;  /* top right bottom left */
 	margin: 5px 0;
 	border: 1px solid #ccc;
 	border-radius: 5px;
-	font-size: 16px;
+	font-size: 14px;
 	font-family:inherit;
+	padding: 8px;
 }
 .contact-form button {
 	background-color: inherit;
@@ -406,14 +408,6 @@ a {
 		width: 90%;
 		max-width: 600px;
 		min-width: auto;
-	}
-	.contact-form input, .contact-form textarea {
-		font-size: 14px;
-		padding: 8px;
-	}
-	.contact-form button {
-		font-size: 14px;
-		padding: 8px 16px;
 	}
 	.about_pic{
 		min-width: auto;
