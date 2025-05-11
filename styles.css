@@ -197,8 +197,8 @@ a {
 .project {
     /* background-color: #eaeaea; */
     border-radius: 8px;
-    margin: -20px;
-    padding: 20px;
+    /* margin: -20px; */
+	padding: 0px 0 20px 0;   /* top right bottom left */
     max-width: 40%;
     flex: 1 1 45%;
     /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
@@ -206,23 +206,25 @@ a {
 }
 
 .project img {
-    border-radius: 50%;
-	border: 1px solid grey;
-    width: 150px;
-    height: 150px;
+    /* border-radius: 50%; */
+	/* border: 1px solid grey; */
+    width: 100%;
+    /* height: 150px; */
     object-fit: cover;
     margin-bottom: 10px;
 	text-align: center;
 }
 
 .project p {
-    margin: 25px 0;
+    margin: 5px 0;
     /* color: #555; */
-    /* font-style: italic; */
+    font-style: normal;
+	font-weight: bold;
 }
 
 .project p:last-child {
-    font-style: italic;
+    font-style: normal;
+	font-weight: normal;
     /* color: #333; */
 }
 
@@ -263,7 +265,7 @@ a {
 	width: 60%;
 	min-width: 600px;
 	margin: 0 auto;
-	padding: 0px 0 40px 0;   /* top right bottom left */
+	padding: 10px 0 30px 0;   /* top right bottom left */
 }
 
 /* Additional styles for sections */
@@ -273,7 +275,7 @@ a {
     /* text-align: center; */
 	padding: 0px 0px 20px 0px;  /* top right bottom left */
 }
-
+	
 .section-even {
     background-color: inherit; /* Background color for section 1
 	/* background-color: #ddd; /* Background color for section 2 */
