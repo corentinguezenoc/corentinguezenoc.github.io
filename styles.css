@@ -165,7 +165,7 @@ a {
     /* background-color: #eaeaea; */
     border-radius: 8px;
     margin: -20px;
-    padding: 20px;
+	padding: 20px 20px 50px 20px;   /* top right bottom left */
     max-width: 40%;
     flex: 1 1 45%;
     /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
@@ -174,11 +174,10 @@ a {
 
 .testimonial img {
     border-radius: 50%;
-	border: 1px solid grey;
+	border: 3px solid rgba(0, 0, 0, 0.2);
     width: 150px;
     height: 150px;
     object-fit: cover;
-    margin-bottom: 10px;
 	text-align: center;
 }
 
@@ -212,14 +211,14 @@ a {
 }
 
 /* Specific testimonials container (to allow for columns) */
-.testimonials-container {
+.container-testimonials {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 	width: 60%;
 	min-width: 600px;
 	margin: 0 auto;
-	padding: 0px 0 40px 0;   /* top right bottom left */
+	padding: 0px 0 10px 0;   /* top right bottom left */
 }
 
 /* Additional styles for sections */
@@ -455,6 +454,14 @@ a {
 		width: 90%;
 		max-width: 600px;
 		min-width: auto;
+	}	
+	.container-testimonials {
+		width: 90%;
+		max-width: 600px;
+		min-width: auto;
+	}
+	.testimonial {
+		min-width: 100%;  /* Forcing a unique column */
 	}
 	.about_pic{
 		min-width: auto;
