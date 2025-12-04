@@ -305,7 +305,7 @@ a {
 }
 
 /* Specific testimonials container (to allow for columns) */
-.projects-container {
+.container-projects {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -550,6 +550,11 @@ a {
 		min-width: auto;
 	}	
 	.container-testimonials {
+		width: 90%;
+		max-width: 600px;
+		min-width: auto;
+	}
+	.container-projects {
 		width: 90%;
 		max-width: 600px;
 		min-width: auto;
