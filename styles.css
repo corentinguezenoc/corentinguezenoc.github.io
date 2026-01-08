@@ -166,7 +166,7 @@ a {
     border-radius: 8px;
     margin: -20px;
 	padding: 20px 20px 50px 20px;   /* top right bottom left */
-    max-width: 40%;
+    max-width: 42%;
     flex: 1 1 45%;
     /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
 	text-align: center
@@ -192,6 +192,87 @@ a {
     /* color: #333; */
 }
 
+/* Projects tab*/
+.project {
+    border-radius: 8px;
+	padding: 0px 0px 20px 0px;   /* top right bottom left */
+    max-width: 30%;
+    flex: 1 1 45%;
+	text-align: center
+}
+
+/* Container for the image and hover text */
+.project-hover-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    /* object-fit: cover; */
+    /* margin-bottom: 10px; */
+	/* text-align: center; */
+}
+
+/* Style for the image */
+.project-hover-container img {
+    display: block;
+    width: 100%;
+    transition: filter 0.1s ease;
+	border-radius: 8px; /* Optional: for rounded corners */
+}
+
+/* Overlay: dark gray semi-transparent */
+.project-hover-container::before {
+	border-radius: 8px; /* Optional: for rounded corners */
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(40, 40, 40, 0.85); /* Dark gray, 70% opacity */
+    opacity: 0;
+    transition: opacity 0.1s ease;
+}
+
+/* Style for the hover text (hidden by default) */
+.project-hover-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+	font-family: 'Alegreya Sans SC', sans-serif;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    opacity: 0;
+    transition: opacity 0.1s ease;
+    width: 100%;
+    padding: 10px;
+}
+
+/* Hover effect: gray out the image and show the text */
+/* .project:hover img { */
+    /* filter: grayscale(100%); */
+/* } */
+.project-hover-container:hover::before {
+    opacity: 1;
+}
+
+.project:hover .project-hover-text {
+    opacity: 1;
+}
+
+.project p {
+    margin: 8px 8px;
+    font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.project p:last-child {
+    font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+}
+
 /* Contact section title */
 .section-title-contact {
 	font-family: 'Alegreya Sans SC', sans-serif;
@@ -204,7 +285,7 @@ a {
 /* Container to limit text width */
 .container {
 	flex: 1;
-	width: 60%;
+	width: 50%;
 	min-width: 600px;
 	margin: 0 auto;
 	padding: 20px;
@@ -215,10 +296,21 @@ a {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-	width: 60%;
+	width: 50%;
 	min-width: 600px;
 	margin: 0 auto;
 	padding: 0px 0 10px 0;   /* top right bottom left */
+}
+
+/* Specific testimonials container (to allow for columns) */
+.container-projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+	width: 50%;
+	min-width: 600px;
+	margin: 0 auto;
+	padding: 10px 0 30px 0;   /* top right bottom left */
 }
 
 /* Additional styles for sections */
@@ -228,7 +320,7 @@ a {
     /* text-align: center; */
 	padding: 0px 0px 20px 0px;  /* top right bottom left */
 }
-
+	
 .section-even {
     background-color: inherit; /* Background color for section 1
 	/* background-color: #ddd; /* Background color for section 2 */
@@ -460,6 +552,11 @@ a {
 		max-width: 600px;
 		min-width: auto;
 	}
+	.container-projects {
+		width: 90%;
+		max-width: 600px;
+		min-width: auto;
+	}
 	.testimonial {
 		min-width: 100%;  /* Forcing a unique column */
 	}
@@ -478,6 +575,15 @@ a {
 		height: auto;
 		margin-top: 0px;
 		border-radius: 32px; /* Optional: for rounded corners */
+	}
+	
+	.project p {
+		margin: 8px 10px;
+		font-size: 18px;
+	}
+
+	.project p:last-child {
+		font-size: 15px;
 	}
 }
 
@@ -510,6 +616,16 @@ a {
 		font-size: 14px;
 		padding: 10px 12px;
 		text-align: left;
+	}
+	
+	.project p {
+		margin: 8px 8px;
+		font-size: 16px;
+	}
+
+	.project p:last-child {
+		margin: 0px 5px;
+		font-size: 12px;
 	}
 }
 
