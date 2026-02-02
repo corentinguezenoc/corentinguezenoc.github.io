@@ -164,9 +164,9 @@ a {
 .playlist {
     /* background-color: #eaeaea; */
     border-radius: 8px;
-	margin: -30px;
-	padding: 30px 35px 70px 35px;   /* top right bottom left */
-    max-width: 45%;
+	margin: -15px;
+	padding: 0px 15px 50px 15px;   /* top right bottom left */
+    max-width: 33%;
     flex: 1 1 45%;
 	text-align: center
 }
@@ -562,6 +562,17 @@ a {
     font-weight: inherit; /* Inherits font weight from the parent element */
 }
 
+@media screen and (max-width: 1400px) {
+	.container-playlists {
+		width: 90%;
+		max-width: 600px;
+		min-width: auto;
+	}
+	.playlist {
+		min-width: 45%;  /* Forcing max two column */
+	}
+}
+
 /* Adjust global lay-out for narrower windows */
 @media screen and (max-width: 1000px) {
 	.container {
@@ -578,7 +589,7 @@ a {
 		width: 90%;
 		max-width: 600px;
 		min-width: auto;
-	}
+	}	
 	.testimonial {
 		min-width: 100%;  /* Forcing a unique column */
 	}
@@ -639,7 +650,14 @@ a {
 		padding: 10px 12px;
 		text-align: left;
 	}
-	
+	.container-playlists {
+		width: 90%;
+		max-width: 600px;
+		min-width: auto;
+	}
+	.playlist {
+		min-width: 100%;  /* Forcing a unique column */
+	}
 	.project p {
 		margin: 8px 8px;
 		font-size: 16px;
