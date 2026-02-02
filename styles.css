@@ -193,7 +193,7 @@ a {
 }
 
 /* Projects tab*/
-.project {
+.credit {
     border-radius: 8px;
 	padding: 0px 0px 20px 0px;   /* top right bottom left */
     max-width: 30%;
@@ -202,7 +202,7 @@ a {
 }
 
 /* Container for the image and hover text */
-.project-hover-container {
+.credit-hover-container {
     position: relative;
     display: inline-block;
     width: 100%;
@@ -212,7 +212,7 @@ a {
 }
 
 /* Style for the image */
-.project-hover-container img {
+.credit-hover-container img {
     display: block;
     width: 100%;
     transition: filter 0.1s ease;
@@ -220,7 +220,7 @@ a {
 }
 
 /* Overlay: dark gray semi-transparent */
-.project-hover-container::before {
+.credit-hover-container::before {
 	border-radius: 8px; /* Optional: for rounded corners */
     content: "";
     position: absolute;
@@ -234,7 +234,7 @@ a {
 }
 
 /* Style for the hover text (hidden by default) */
-.project-hover-text {
+.credit-hover-text {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -249,25 +249,25 @@ a {
 }
 
 /* Hover effect: gray out the image and show the text */
-/* .project:hover img { */
+/* .credit:hover img { */
     /* filter: grayscale(100%); */
 /* } */
-.project-hover-container:hover::before {
+.credit-hover-container:hover::before {
     opacity: 1;
 }
 
-.project:hover .project-hover-text {
+.credit:hover .credit-hover-text {
     opacity: 1;
 }
 
-.project p {
+.credit p {
     margin: 8px 8px;
     font-style: normal;
 	font-weight: bold;
 	font-size: 20px;
 }
 
-.project p:last-child {
+.credit p:last-child {
     font-style: normal;
 	font-weight: normal;
 	font-size: 17px;
@@ -303,7 +303,7 @@ a {
 }
 
 /* Specific testimonials container (to allow for columns) */
-.container-projects {
+.container-credits-section {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -552,7 +552,7 @@ a {
 		max-width: 600px;
 		min-width: auto;
 	}
-	.container-projects {
+	.container-credits-section {
 		width: 90%;
 		max-width: 600px;
 		min-width: auto;
@@ -577,12 +577,12 @@ a {
 		border-radius: 32px; /* Optional: for rounded corners */
 	}
 	
-	.project p {
+	.credit p {
 		margin: 8px 10px;
 		font-size: 18px;
 	}
 
-	.project p:last-child {
+	.credit p:last-child {
 		font-size: 15px;
 	}
 }
@@ -618,12 +618,12 @@ a {
 		text-align: left;
 	}
 	
-	.project p {
+	.credit p {
 		margin: 8px 8px;
 		font-size: 16px;
 	}
 
-	.project p:last-child {
+	.credit p:last-child {
 		margin: 0px 5px;
 		font-size: 12px;
 	}
@@ -646,4 +646,61 @@ a {
 		padding-left: 0;
 		padding-right: 0;
 	}
+}
+
+
+/* ====================================================== */
+/*     INDIVIDUAL CREDIT PAGES                            */
+/* ====================================================== */
+
+/* Specific testimonials container (to allow for columns) */
+.container-credits-pages {
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* justify-content: space-around; */
+	width: 50%;
+	min-width: 600px;
+	margin: 0 auto;
+	padding: 10px 0 30px 0;   /* top right bottom left */
+}
+
+.container-credits-pages-left-column {
+	max-width: 50%;
+    flex: 1 1 45%;
+	text-align: center;
+}
+.container-credits-pages-right-column {
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* justify-content: space-around; */
+	/* margin: 0 auto; */
+	/* width: 50%; */
+	max-width: 50%;
+    /* flex: 1 1 45%; */
+	text-align: left;
+}
+
+.container-credits-pages-right-column img {
+    display: block;
+    width: 100%;
+	border-radius: 8px; /* Optional: for rounded corners */
+}
+
+/* Page title */
+.credits-pages-title {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	text-transform: uppercase;
+	font-size: 40px;
+	color: #999;
+	text-align: center;
+}
+
+/* Page subtitle */
+.credits-pages-subtitle {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	text-transform: uppercase;
+	margin: -20px 0px 20px 0px;   /* top right bottom left */
+	font-size: 24px;
+	color: #aaa;
+	text-align: center;
 }
